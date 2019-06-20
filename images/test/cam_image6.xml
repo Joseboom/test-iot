@@ -1,62 +1,26 @@
 <annotation>
-	<folder>test</folder>
+	<folder>train</folder>
 	<filename>cam_image6.jpg</filename>
-	<path>C:\tensorflow_cards\test\cam_image6.jpg</path>
+	<path>H:\web\TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10\images\train\cam_image6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>960</width>
-		<height>540</height>
+		<width>582</width>
+		<height>768</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>nine</name>
+		<name>somdejwadrakung</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>307</xmin>
-			<ymin>32</ymin>
-			<xmax>478</xmax>
-			<ymax>243</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>nine</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>504</xmin>
-			<ymin>32</ymin>
-			<xmax>676</xmax>
-			<ymax>243</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>nine</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>300</xmin>
-			<ymin>272</ymin>
-			<xmax>482</xmax>
-			<ymax>518</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>nine</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>504</xmin>
-			<ymin>272</ymin>
-			<xmax>691</xmax>
-			<ymax>518</ymax>
+			<xmin>46</xmin>
+			<ymin>22</ymin>
+			<xmax>541</xmax>
+			<ymax>751</ymax>
 		</bndbox>
 	</object>
 </annotation>
